@@ -1,0 +1,17 @@
+# Create a text file and write random content to it
+
+file_name = "random_text.txt"
+
+# Random content to write
+content = """
+This is a random text file.
+It contains multiple lines of text.
+You can use this file for testing or as an example.
+Have a great day!
+"""
+
+# Write the content to the file
+with open(file_name, 'w') as file:
+    file.write(content)
+
+print(f"{file_name} has been created with random content.")
