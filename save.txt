@@ -1,0 +1,1 @@
+{"levelUnlock":5,"hiScore":4,"langSelect":1,"musicLevel":1.0,"sfxLevel":1.0,"anklevel":2}
